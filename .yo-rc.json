@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "org.launchcode.liftoff"
+    },
+    "jhipsterVersion": "6.7.1",
+    "applicationType": "monolith",
+    "baseName": "jhipster_coding_events2",
+    "packageName": "org.launchcode.liftoff",
+    "packageFolder": "org/launchcode/liftoff",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZDBhMGM3NDVmYjhjYTlmM2E2YTZiNmI3YWMxYTI1ZjgwNDVjYTFiM2VlMTI2ZDA0M2I0MWMwNmQ5NDFhZDMzMDZhYjMwNWUzYTllMjc5MmJkZTdiMzM4OGJhMjVkNTYyYTg4N2E1MmNmOWU3ZmViNzgyYzA5N2Y2NGYxMDY3ZDE=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "materia",
+    "clientThemeVariant": "light",
+    "creationTimestamp": 1585100270046,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
